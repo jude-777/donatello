@@ -1,0 +1,20 @@
+section{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+h1{
+    text-align: centre;
+    color: red;
+    font-size: 30px;
+}
+p#name{
+    color: green;
+    font-size: 25px;
+
+
+}
+.small{
+    font-size: 18px;
+    font-style: italic
+}
